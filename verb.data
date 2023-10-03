@@ -1,0 +1,65 @@
+:vocab hablar
+type verb
+meaning sprechen
+end ar
+:
+:vocab llevar
+type verb
+meaning tragen
+end ar
+:
+:vocab mirar
+type verb
+meaning sehen
+end er
+:
+:vocab ayudar
+type verb
+meaning helfen
+end ar
+:
+:vocab buscar
+type verb
+meaning suchen
+end ar
+:
+:vocab estar
+type verb
+meaning sein
+end ireg
+:
+:vocab tener
+type verb
+meaning haben
+end ireg
+:
+:vocab recordar
+type verb
+meaning erinnern
+end ar
+:
+:vocab quedar
+type verb
+meaning machen(Eindruck)
+end ar
+:
+:vocab quedar
+type verb
+meaning tragen
+end ar
+:
+:vocab rechazar
+type verb
+meaning ablehnen
+end er
+:
+:vocab apender
+type verb
+meaning lernen
+end er
+:
+:vocab ir
+type verb
+meaning gehen,fahren
+end ireg
+:

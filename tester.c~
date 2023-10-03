@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define Read_VOCAB_SIZE =
+
+int random_num(int max);
+
+int main()
+{
+	FILE *fptr;
+	fptr = fopen("./vocabs.data","r");
+	if (fptr == NULL) {
+		printf("Error\n");
+		return 1;
+	}
+	char num[20];
+	fgets(num, 20, fptr);
+	printf("%s",num);
+	fgets(num, 20, fptr);
+	printf("%s",num);
+	
+	fclose(fptr);
+	random_num(100);
+	return 0;
+}
+
+int random_num(int max){
+	int res;
+	
+	struct timespec current_time;
+	if (clock_gettime(CLOCK_REALTIME, &current_time) != 0) {
+		perror("clock_gettime");
+	}
+	srandom(current_time.tv_nsec);
+	res = random() % max;
+	printf("%d\n",res);
+	return res;
+}

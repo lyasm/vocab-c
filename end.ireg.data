@@ -1,0 +1,43 @@
+:ir
+sustantivo.1 voy
+sustantivo.2 vas
+sustantivo.3 va
+sustantivo.4 vamos
+sustantivo.5 vaís
+sustantivo.6 van
+indefinido.1 fui
+indefinido.2 fuiste
+indefinido.3 fue
+indefinido.4 fuimos
+indefinido.5 fuisteis
+indefinido.6 fueron
+:
+
+:estar
+Sustantivo.1 estoy
+Sustantivo.2 estás
+Sustantivo.3 está
+Sustantivo.4 estamos
+Sustantivo.5 estáis
+Sustantivo.6 están
+Indefinido.1 estuve
+Indefinido.2 estuviste
+Indefinido.3 estuvo
+Indefinido.4 estuvimos
+Indefinido.5 estuvisteis
+Indefinido.6 estuvieron
+:
+:tener
+Sustantivo.1 tengo
+Sustantivo.2 tienes
+Sustantivo.3 tiene
+Sustantivo.4 tenemos
+Sustantivo.5 tenéis
+Sustantivo.6 tienen
+Indefinido.1 tuve
+Indefinido.2 tuviste
+Indefinido.3 tuvo
+Indefinido.4 tuvimos
+Indefinido.5 tuvisteis
+Indefinido.6 tuvieron
+:
